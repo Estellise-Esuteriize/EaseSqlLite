@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Caballero\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Caballero\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_SnowPlatform_EaseSqlLite.775156477.00" t="ExcludeRecursive" />
+    <e p="E:\Projects\DLL\SnowPlatform_EaseSqlLite" t="IncludeFlat">
+      <e p="EaseSqlLiteTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EaseSqlLiteTest.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="StringExtensionsTest.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SnowPlatform_EaseSqlLite" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Constant" t="Include">
+          <e p="ConstantString.cs" t="Include" />
+        </e>
+        <e p="EaseSqlLite.cs" t="Include" />
+        <e p="EaseSqlLiteQuery.cs" t="Include" />
+        <e p="Exceptions" t="Include">
+          <e p="EaseSqlLiteErrorCode.cs" t="Include" />
+          <e p="EaseSqlLiteExceptions.cs" t="Include" />
+          <e p="EaseSqlLiteNullArgumentException.cs" t="Include" />
+          <e p="EaseSqlLiteOutOfRangeException.cs" t="Include" />
+        </e>
+        <e p="Extensions.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SnowPlatform_EaseSqlLite.csproj" t="IncludeRecursive" />
+        <e p="Strings" t="Include">
+          <e p="EaseSqlLiteString.cs" t="Include" />
+        </e>
+      </e>
+      <e p="SnowPlatform_EaseSqlLite.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
